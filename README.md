@@ -1,2 +1,3 @@
-# atividade1
-# atividade1
+# Atividade em Grupo
+
+Integrantes: Matheus Lopes, Kevyn Cavalcanti, Westes, Lucas Retanero.
